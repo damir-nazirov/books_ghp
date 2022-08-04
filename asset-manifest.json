@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/books_ghp/static/css/main.241a5bfc.css",
+    "main.js": "/books_ghp/static/js/main.9cb91c27.js",
+    "static/js/787.28cb0dcd.chunk.js": "/books_ghp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/books_ghp/index.html",
+    "main.241a5bfc.css.map": "/books_ghp/static/css/main.241a5bfc.css.map",
+    "main.9cb91c27.js.map": "/books_ghp/static/js/main.9cb91c27.js.map",
+    "787.28cb0dcd.chunk.js.map": "/books_ghp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241a5bfc.css",
+    "static/js/main.9cb91c27.js"
+  ]
+}
